@@ -17,9 +17,7 @@ Inicializa el sistema
 Conecta con la lógica ubicada en src
 
 src
-
 Aquí se encuentra toda la lógica del sistema:
-
 Pantallas
 Componentes
 Funciones
