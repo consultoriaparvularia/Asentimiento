@@ -38,6 +38,6 @@ Se adjuntan los siguientes recursos para complementar la documentación del proy
 Manual de uso
 Archivo APK para instalación de la aplicación
 
-Puedes acceder a ambos en el siguiente enlace:
+Puede acceder a ambos en el siguiente enlace:
 
 https://fedisal-my.sharepoint.com/:f:/g/personal/consultor_mariocalazan_fedisal_org_sv/IgBtp-vgYn62SY-8sxs4JdDRARWVGwoqsYNSuGwazCVhmHU?e=yDxmIM
